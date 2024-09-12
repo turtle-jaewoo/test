@@ -1,4 +1,4 @@
 # My name is Kim Jaewoo
-I'm a student of Gachon University.
-And I'm sophomore in university.
-My vision is Data scientist
+I'm a student of Gachon University.\n
+And I'm sophomore in university.\n
+My vision is Data scientist.\n
